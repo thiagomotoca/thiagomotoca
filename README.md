@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thiagomotoca
 - 👀 I’m interested in software development in general
-- 🌱 I’m currently learning C# (always) and Angular, React, NextJS
+- 🌱 I’m currently learning C# (always), React and NextJS
 - 💞️ I’m looking to collaborate on any kind of project
 - 📫 How to reach me: thiago.motoca@gmail.com
 
